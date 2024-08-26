@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceRoot}/a.out",
+            "program": "/workspaces/Codespace-Setup/Jacob_Phillips/program0./a.out",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
